@@ -15,7 +15,7 @@ Final project repository for info201
 
 ## Source 2:
 1. https://gis.cdc.gov/Cancer/USCS/DataViz.html
-2. The data that is used inthe CDC website is gathered by compiling information from cancer registeries across the United States, we will only be using the information gathered within the state of California. It is compiled within five year periods andbreaks down the information by varying cancer types and by the counties. 
-3. The table provides the population on the county, the types of councers that affect the country, as well as the rate of new cases. 
+2. The data that is used in the CDC website is gathered by compiling information from cancer registeries across the United States, we will only be using the information gathered within the state of California. It is compiled within five year periods and breaks down the information by varying cancer types and by the counties. 
+3. The table has 8 columns and 59 rows which provide information on the counties such as the population of the county, the types of cancers that affect the county, as well as the rate of new cases. 
 4. From this data we can see the correlation, if any, between counties in California with high smoking rates and to different cancers. 
 ## Source 3: 
