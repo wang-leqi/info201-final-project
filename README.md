@@ -11,10 +11,10 @@ Final project repository for info201
 
 ## What other examples of data driven project have you found related to this domain (share at least 3)?
 1. E-Cigarette Use Among Youth and Young Adults by U.S. Public Health Service
-https://e-cigarettes.surgeongeneral.gov/documents/2016_sgr_full_report_non-508.pdf 
+   https://e-cigarettes.surgeongeneral.gov/documents/2016_sgr_full_report_non-508.pdf 
 
 2.E-Cigarettes: Use, Effects on Smoking, Risks, and Policy Implications
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6251310/ 
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6251310/ 
 
 3.Tobacco Control Simulation Models
 https://www.hhs.gov/sites/default/files/consequences-smoking-appendix15-1-tobacco-control-simulation-models.pdf
