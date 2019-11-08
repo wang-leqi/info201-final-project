@@ -3,6 +3,31 @@ Final project repository for info201
 
 
 # Domain of interest
+Why are you interested in this field/domain?
+Our domain of interest is health care. We are interested in health care because it is one of the most promising and controverial fields. Health is always the basic and most important need of humans, and healthcare is always cared by humans.
+
+We will especially focus on smoking and cigarettes. Smoking/ecig is chosen as a potential domain of interest to study because the effects and marketing of ecigs is widely controversial, which presents the need to study the topic further. 
+We chose to focus our geographic coverage to a single state, preferably a more populated one like California. 
+
+What other examples of data driven project have you found related to this domain (share at least 3)?
+1. E-Cigarette Use Among Youth and Young Adults by U.S. Public Health Service
+https://e-cigarettes.surgeongeneral.gov/documents/2016_sgr_full_report_non-508.pdf 
+
+2.E-Cigarettes: Use, Effects on Smoking, Risks, and Policy Implications
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6251310/ 
+
+3.Tobacco Control Simulation Models
+https://www.hhs.gov/sites/default/files/consequences-smoking-appendix15-1-tobacco-control-simulation-models.pdf
+
+What data-driven questions do you hope to answer about this domain (share at least 3)?
+1. What are the percentage of adult smokers in California Counties from 2010 to 2019?
+
+2. What is the relationship between smoking rates and the number of smokers? 
+
+3. What are the retailer names of each cities in California?
+
+
+
 
 
 # Finding Data
@@ -18,4 +43,5 @@ Final project repository for info201
 2. The data that is used in the CDC website is gathered by compiling information from cancer registeries across the United States, we will only be using the information gathered within the state of California. It is compiled within five year periods and breaks down the information by varying cancer types and by the counties. 
 3. The table has 8 columns and 59 rows which provide information on the counties such as the population of the county, the types of cancers that affect the county, as well as the rate of new cases. 
 4. From this data we can see the correlation, if any, between counties in California with high smoking rates and the number of smokers. 
+
 ## Source 3: 
