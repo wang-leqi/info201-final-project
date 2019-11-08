@@ -3,7 +3,7 @@ Final project repository for info201
 
 
 # Domain of interest
-Why are you interested in this field/domain?
+Why are you interested in this field/domain? 
  1.Our domain of interest is health care. We are interested in health care because it is one of the most promising and controverial fields. Health is always the basic and most important need of humans, and healthcare is always cared by humans.
 
  2.We will especially focus on smoking and cigarettes. Smoking/ecig is chosen as a potential domain of interest to study because the effects and marketing of ecigs is widely controversial, which presents the need to study the topic further. 
