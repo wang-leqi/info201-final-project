@@ -4,19 +4,19 @@ Final project repository for info201
 
 # Domain of interest
 ## Why are you interested in this field/domain?
--Our domain of interest is health care. We are interested in health care because it is one of the most promising and controverial fields. Health is always the basic and most important need of humans, and healthcare is always cared by humans.
+- Our domain of interest is health care. We are interested in health care because it is one of the most promising and controverial fields. Health is always the basic and most important need of humans, and healthcare is always cared by humans.
 
--We will especially focus on smoking and cigarettes. Smoking/ecig is chosen as a potential domain of interest to study because the effects and marketing of ecigs is widely controversial, which presents the need to study the topic further.
+- We will especially focus on smoking and cigarettes. Smoking/ecig is chosen as a potential domain of interest to study because the effects and marketing of ecigs is widely controversial, which presents the need to study the topic further.
 -We chose to focus our geographic coverage to a single state, preferably a more populated one like California.
 
 ## What other examples of data driven project have you found related to this domain (share at least 3)?
 1. E-Cigarette Use Among Youth and Young Adults by U.S. Public Health Service
    https://e-cigarettes.surgeongeneral.gov/documents/2016_sgr_full_report_non-508.pdf
 
-2.E-Cigarettes: Use, Effects on Smoking, Risks, and Policy Implications
+2. E-Cigarettes: Use, Effects on Smoking, Risks, and Policy Implications
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6251310/
 
-3.Tobacco Control Simulation Models
+3. Tobacco Control Simulation Models
 https://www.hhs.gov/sites/default/files/consequences-smoking-appendix15-1-tobacco-control-simulation-models.pdf
 
 ## What data-driven questions do you hope to answer about this domain (share at least 3)?
@@ -24,10 +24,7 @@ https://www.hhs.gov/sites/default/files/consequences-smoking-appendix15-1-tobacc
 
 2. What is the relationship between smoking rates and the number of smokers?
 
-3. What are the retailer names of each cities in California?
-
-
-
+3.  What is the distrubution of Tobacco Retailers in California？
 
 
 # Finding Data
