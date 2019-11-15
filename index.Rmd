@@ -1,0 +1,21 @@
+---
+title: "index.Rmd"
+author: "leqiw2"
+date: "11/15/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Intro
+
+# Charts
+## ChartI
+
+## ChartII
+
+## ChartIII
+
+#Sum
