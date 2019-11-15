@@ -12,5 +12,3 @@ summary_info <- function(dataset) {
       pull(County)
   return(retlist)
 }
-
-# ******************Another Chart*******************
