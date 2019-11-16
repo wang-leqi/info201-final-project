@@ -1,7 +1,7 @@
 library(readr)
 library(dplyr)
 smoking_data <- read_csv("data/smoking data (2010-2019).csv")
-View(smoking_data)
+
 
 #summary info calculations
 summary_info <- function(dataset) {
